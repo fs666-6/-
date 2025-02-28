@@ -1,2 +1,3 @@
-# -
-Repository name: lottery        Description: 抽奖小程序       
+Repository name: lottery  
+描述：抽奖小程序  
+
